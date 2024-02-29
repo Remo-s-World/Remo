@@ -1,0 +1,15 @@
+@import "react-circular-progressbar/dist/styles.css";
+
+/* CircularProgressBar.css */
+.CircularProgressbar .CircularProgressbar-path {
+    stroke-linecap: butt; /* This removes the rounded end */
+  }
+
+  .progress{
+    transform: rotate(110deg);
+  }
+
+  .bgImg {
+    background-image: url(../../assets/remobg.jpg);
+    background-size: contain;
+  }
