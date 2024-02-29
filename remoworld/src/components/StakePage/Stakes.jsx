@@ -31,7 +31,7 @@ function Stakes() {
                 <div className="flex space-x-[20%] whitespace-nowrap">
                   <p>HOLDER CLAIMABLE REWARDS</p>
                   <p>
-                    0.000 <b className="text-[#AE3836]">$REMO</b>
+                    0.000  &nbsp;<b className="text-[#AE3836]">$ REMO</b>
                   </p>
                 </div>
                 <div className="flex space-x-[23%]">
