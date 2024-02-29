@@ -41,13 +41,13 @@ function Stakes() {
                   </p>
                 </div>
 
-                <div className="flex space-x-[52%] md:space-x-[75.8%] lg:space-x-[55%]">
+                <div className="flex space-x-[48%] md:space-x-[75.8%] lg:space-x-[55%]">
                   <p>HOLDER NFTS STAKED</p>
                   <p className="text-[#AE3836]">0</p>
                 </div>
               </div>
             </div>
-            <div className="lg:w-[55%] w-[90%] bg-white bg-opacity-50 md:ml-6 ml-[6.5%] mt-7 lg:mt-0 p-3 pl-7">
+            <div className="lg:w-[55%] w-[90%] bg-white bg-opacity-50 md:ml-6 lg:ml-[7%] ml-[6.5%] mt-7 lg:mt-0 p-3 pl-7">
               <h2 className="font-bold text-2xl">TOTAL STAKED</h2>
               <p className="text-xs lg:mt-3">
                 3,888 REMOS STAKED BY 1,415 HOLDERS
@@ -106,7 +106,7 @@ function Stakes() {
               <h2 className="text-2xl font-bold">AVAILABLE REWARDS</h2>
 
               <input
-                className="text-sm px-2 p-2 rounded-md text-wrap font-semibold w-24 relative top-10 lg:top-0 mt-[40%] bg-gray-300 "
+                className="text-sm px-2 p-2 rounded-md text-wrap font-semibold lg:w-24 relative top-10 lg:top-0 mt-[40%] bg-gray-300 "
                 value="CONNECT WALLET"
                 type="submit"
               />
