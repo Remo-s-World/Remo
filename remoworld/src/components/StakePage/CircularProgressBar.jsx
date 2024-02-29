@@ -13,7 +13,7 @@ const CircularProgressBar = ({ progress }) => {
   }, [progress]);
 
   return (
-    <div className="progress relative top-7 ml-[30%] " style={{ width: 200, height: 130 }}>
+    <div className="progress relative top-7 lg:ml-[30%] ml-[25%] " style={{ width: 200, height: 130 }}>
       <CircularProgressbar
         value={percentage}
         // text={`${percentage}%`}
